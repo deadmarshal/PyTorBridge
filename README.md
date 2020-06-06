@@ -23,4 +23,4 @@ Ali Moradi (adeadmarshal@gmail.com)
 
 Copyright © 2020 Ali Moradi.
 
-MIT Licence 2020.
+MIT License
