@@ -11,7 +11,7 @@ To remove the config file run the script with -c or --clean option. (You need to
 * selenium
 * feh (https://feh.finalrewind.org)
 * xquartz (on MacOS)(https://www.xquartz.org)
-* Chromium driver in your environment path
+* Chromium driver in your environment path https://sites.google.com/a/chromium.org/chromedriver/
 
 Install dependencies with this command:
 pip install requirements.txt
