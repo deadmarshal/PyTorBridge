@@ -34,7 +34,7 @@ def add_bridges():
     else:
         torrc_path = input("Enter your torrcfile path (Default: /etc/tor/torrc) ") or '/etc/tor/torrc'
         proxy_type = input("Enter your desired proxy type (obfs4proxy[default] or obfsproxy) ") or 'obfs4proxy'
-        ip_type = input("Do you want to use ipv6? (yes(y) or no(n)[default: no]) ")
+        ip_type = input("Do you want to use ipv6? (yes(y) or no(n)[default: no]) ") or ''
 
         if proxy_type != 'obfs4proxy':
             proxy_type = '0'
